@@ -1,6 +1,6 @@
 ### Capstone-LabelMaster-Churn
 
-Step 1: Labeling Data
+Step 1: Labeling Data✅
 
 Step 2: Performing EDA
 
